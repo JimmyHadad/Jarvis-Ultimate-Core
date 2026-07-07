@@ -15,6 +15,8 @@ An integrated Mechatronics and AI personal assistant system combining **Computer
 * **ESP32 Microcontroller** (Connected via USB on `COM4` - configurable).
 * **SSD1306 OLED Display** (128x64) via I2C.
 * **Servo Motor** (Connected to Pin 18).
+* <img width="1280" height="963" alt="WhatsApp Image 2026-07-08 at 2 25 59 AM" src="https://github.com/user-attachments/assets/12ed01b8-db81-41e9-b28b-7b31cd1fcaaf" />
+
 
 ## 🗂️ Repository Structure
 
