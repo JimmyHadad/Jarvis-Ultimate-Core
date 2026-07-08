@@ -1,0 +1,7 @@
+opencv-python==4.9.0.80
+face_recognition
+ultralytics
+SpeechRecognition
+pyserial
+Pillow
+numpy==1.26.4
